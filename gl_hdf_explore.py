@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # Script to explore available metadata
 # Copyright (c) [2021] Godwin Liu
+# code modified from script originally Copyright (c) [2015] [Gerard Pons-Moll]
 
 from argparse import ArgumentParser
 from os.path import join, exists
